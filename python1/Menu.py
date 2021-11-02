@@ -1,0 +1,8 @@
+intro = input("Hello, welcome to our Hotel")
+Starter = input("Select your favourite starter")
+Maincourse = input("select your favourite main course")
+Dessert = input("select your favourite dessert")
+Drink = input("select your favourite drink")
+print("Your favourite food is" + Starter + Maincourse + Dessert + Drink)
+print("Wow! I am so happy")
+input("\n\n press the enter key to exit")
